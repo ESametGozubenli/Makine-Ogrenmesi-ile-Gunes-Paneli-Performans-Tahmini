@@ -25,5 +25,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# Excel temp/backup files (optional, remove if you want to track changes on Excel)
+# Excel files (both temp files and actual excel data sheets)
 ~$*.xlsx
+*.xlsx
+
